@@ -3,6 +3,11 @@ container/package-lock.json
 dashboard/package-lock.json
 marketing/package-lock.json
 
+auth/node_modules
+container/node_modules
+dashboard/node_modules
+marketing/node_modules
+
 
 # Logs
 logs
