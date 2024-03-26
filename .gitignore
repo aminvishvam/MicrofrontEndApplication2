@@ -1,3 +1,9 @@
+auth/package-lock.json
+container/package-lock.json
+dashboard/package-lock.json
+marketing/package-lock.json
+
+
 # Logs
 logs
 *.log
